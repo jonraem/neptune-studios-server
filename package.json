@@ -1,0 +1,24 @@
+{
+  "name": "neptune-studios-server",
+  "version": "0.0.1",
+  "description": "Server for Neptune Studios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonraem/neptune-studios-server.git"
+  },
+  "author": "Joni Rämö <joni.ramo.91@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonraem/neptune-studios-server/issues"
+  },
+  "homepage": "https://github.com/jonraem/neptune-studios-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.17",
+    "path": "^0.12.7"
+  }
+}
